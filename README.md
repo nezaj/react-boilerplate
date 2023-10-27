@@ -10,15 +10,17 @@ This is my minimal react boilerplate. It provides support for:
 ## Quick Start
 Make it work
 ```
-git clone ...
+git clone https://github.com/nezaj/react-boilerplate [NEW_APP]
 npm i
 make dev
 ```
 
 Start from scratch
 ```
+git clone https://github.com/nezaj/react-boilerplate [NEW_APP]
 rm -rf .git
 git init
+git add .
 git commit -m "Initial commit"
 git remote add origin ...
 git branch -M main
